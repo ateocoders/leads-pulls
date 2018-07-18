@@ -1,9 +1,13 @@
 #usage : 
+
+USING PHP SCRIPT :
 #1 - Host the file "leadapi.php" 
 #2 - fetch the requiered fields using specified JSON attributes.
 
-JSON FORMAT :
+USING URL :
+http://www.reporting.rf.gd/SF/logs.php?token=YOUR_TOKEN
 
+JSON FORMAT :
 "ID" : unique identifier generated on our databases.
 "EMAIL" : lead's email address.
 "LASTNAME" : lead's name.
