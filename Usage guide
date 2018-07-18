@@ -4,6 +4,7 @@
 
 JSON FORMAT :
 
-"ID" : unique identifier generated on our databases
-"EMAIL" : lead's email address
-"LAST NAME" : lead's name
+"ID" : unique identifier generated on our databases.
+"EMAIL" : lead's email address.
+"LAST NAME" : lead's name.
+"FIRSTNAME" : lead's firstname.
